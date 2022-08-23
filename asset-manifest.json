@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/snowinews/static/css/main.15ad62a9.css",
+    "main.js": "/snowinews/static/js/main.395a216a.js",
+    "static/js/787.8352fac8.chunk.js": "/snowinews/static/js/787.8352fac8.chunk.js",
+    "static/media/loading.gif": "/snowinews/static/media/loading.3e504207207296777f28.gif",
+    "index.html": "/snowinews/index.html",
+    "main.15ad62a9.css.map": "/snowinews/static/css/main.15ad62a9.css.map",
+    "main.395a216a.js.map": "/snowinews/static/js/main.395a216a.js.map",
+    "787.8352fac8.chunk.js.map": "/snowinews/static/js/787.8352fac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ad62a9.css",
+    "static/js/main.395a216a.js"
+  ]
+}
